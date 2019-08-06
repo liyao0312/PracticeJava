@@ -24,7 +24,7 @@ public class wangyi1{
             result[j]= new DecimalFormat("#0.000000").format(ans).toString();
         }
         for(int l=0;l<q;l++){
-            System.out.println(result[l]);t
+            System.out.println(result[l]);
         }
     }
 }
